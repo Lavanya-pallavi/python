@@ -1,3 +1,2 @@
-lav='pav'
-print(lav)
-number
+lav1='pav'
+print(lav1)
